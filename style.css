@@ -1,0 +1,24 @@
+
+
+
+.text
+{
+    background-color: rgb(17, 114, 106);
+    color: #f8eded;
+    font-size:20px;
+    text-align: justify;
+    font-style: sans-serif;
+}
+
+#parrafo
+{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color:rgb(17, 114, 106);
+}
+
+.span{
+    color: red;
+    background-color: blueviolet;
+}
